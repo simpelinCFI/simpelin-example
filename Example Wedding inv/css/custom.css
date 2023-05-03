@@ -398,6 +398,22 @@ body {
   .column-2.footer-data {
     width: 100%;
   }
+
+  .inv-envelope-groom-name,
+  .inv-banner .title,
+  .grid-wrapper,
+  .thank-name {
+    font-size: 3rem;
+  }
+
+  .countdown-text,
+  .countdown-digit {
+    font-size: 5vw;
+  }
+
+  .bride-name {
+    font-size: 8vw;
+  }
 }
 
 .modal-content {
